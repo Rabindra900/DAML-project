@@ -1,0 +1,11 @@
+*.jpg
+*.jpeg
+*.png
+*.h5
+dataset/
+images/
+dataset_labeled/
+images_all/
+tfenv/
+__pycache__/
+.vscode/
