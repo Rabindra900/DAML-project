@@ -1,8 +1,10 @@
 streamlit==1.32.0
 pandas==2.2.2
 numpy==1.26.4
-pillow==10.3.0
-opencv-python-headless==4.9.0.80
-scikit-learn==1.4.2
-protobuf==3.20.3
-tensorflow-cpu==2.15.0
+pillow==10.2.0
+scikit-learn==1.4.1
+opencv-python==4.9.0.80
+matplotlib==3.8.3
+tqdm==4.66.2
+tensorflow==2.15.0
+keras==2.15.0
